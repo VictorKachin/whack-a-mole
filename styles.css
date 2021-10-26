@@ -1,0 +1,38 @@
+.count-block {
+    max-width: 600px;
+    margin: auto;
+}
+
+h2, h4 {
+    text-align: center;
+}
+
+#time-left {
+    color: red;
+}
+
+#score {
+    color: blue;
+}
+
+.grid {
+    margin: auto;
+    width: 320px;
+    height: 320px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: lightseagreen;
+    border: solid 1px black;
+    cursor: pointer;
+    border-radius: 50%;
+    margin: 2px;
+}
+
+.mole {
+    background-color: greenyellow;
+}
