@@ -1,36 +1,20 @@
-## Welcome to GitHub Pages
+# This is the simplest implementation of the game by named "whack a mole" on native JavaScript whith HTML and CSS
 
-You can use the [editor on GitHub](https://github.com/VictorKachin/whack-a-mole/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can see the [repository](https://github.com/VictorKachin/whack-a-mole).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Main tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- querySelector
+- querySelectorAll
+- forEach
+- innerHTML
+- other
 
-```markdown
-Syntax highlighted code block
+### Used Jekyll Themes
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VictorKachin/whack-a-mole/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VictorKachin/whack-a-mole/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
